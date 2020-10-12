@@ -18,6 +18,7 @@ Notice: The project is still in the prototype phase, the first version has not y
 # Version 1.0
 
 First version of project
+
 Coworked with @MonotechPCs (Twitter profile)
 
 * 4 Layer Mini-ITX board
