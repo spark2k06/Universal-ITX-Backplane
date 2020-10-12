@@ -18,6 +18,7 @@ Notice: The project is still in the prototype phase, the first version has not y
 # Version 1.0
 
 First version of project
+Coworked with @MonotechPCs (Twitter profile)
 
 * 4 Layer Mini-ITX board
 * 3 x ISA 8 / 16 bits slots
@@ -25,4 +26,4 @@ First version of project
 * 3 x ISA 8 bits slots
 * I/O shield with MonochromeVGA integrated, VGA, and 2 x DB9 connectors
 
-Coworked with @Monotech
+
