@@ -2,6 +2,8 @@
 
 This backplane is initially intended to be used with Sergey Kiselev's Micro8088 or xi8088 PC clones, among others system powered by x86 architecture. However, other old systems could also be developed using FPGAs built or adapted to ISA or PC / 104 type slots, plus other accessories based on these.
 
+![alt text](Universal-ITX-Backplane.png "Jumpers")
+
 The PCB has several I / O connectors common to all projects:
 
 * VGA + MonochromeVGA integrated
