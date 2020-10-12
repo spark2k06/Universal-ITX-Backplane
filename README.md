@@ -24,3 +24,5 @@ First version of project
 * 1 x PC104 8 / 16 bits slot
 * 3 x ISA 8 bits slots
 * I/O shield with MonochromeVGA integrated, VGA, and 2 x DB9 connectors
+
+Coworked with @Monotech
