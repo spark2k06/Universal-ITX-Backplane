@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Universal-ITX-Backplane-rescue)(type Legacy)(uri ${KIPRJMOD}/Universal-ITX-Backplane-rescue.lib)(options "")(descr ""))
+)
